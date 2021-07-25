@@ -1,5 +1,6 @@
 # Thermo Snookered
 **By Viraj Patel**
+
 Department of Physics, Imperial College London
 
 ## Contents
